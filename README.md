@@ -12,8 +12,8 @@
 ## 🚀 About Me
 
 - 🎓 Undergraduate student at SLIIT
-- 💻 Passionate about software development, AI, and IoT
-- 🌱 Currently learning web development and machine learning
+- 💻 Passionate about software development, AI,IoT,cyber Security
+- 🌱 Currently learning cyber Security
 - 🔭 Always exploring new technologies and building cool projects
 
 ---
@@ -42,17 +42,12 @@
 
 ---
 
-## 🔥 Featured Projects
-
-- 🚀 [My Project 1](#) - Short description of your project
-- 💡 [My Project 2](#) - Short description of your project
-- 🌟 [My Project 3](#) - Short description of your project
 
 ---
 
 ## 📫 How to reach me
 
-- LinkedIn: [https://www.linkedin.com/in/pulina-pethvan-380ba632a]([https://www.linkedin.com/in/pulina69](https://www.linkedin.com/in/pulina-pethvan-380ba632a/))
+- LinkedIn: [https://www.linkedin.com/in/pulina-pethvan-380ba632a]([https://www.linkedin.com/in/pulina69](https://www.linkedin.com/in/pulina-pethvan-380ba632a/]))
 - Email: [pulinapethvan87@gmail.com](mailto:pulinapethvan87@gmail.com)
 
 ---
@@ -60,6 +55,7 @@
 ## ⚡ Fun fact
 
 I love building things that make life easier and more fun!
+
 
 
 
