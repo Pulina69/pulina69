@@ -52,12 +52,13 @@
 
 ## 📫 How to reach me
 
-- LinkedIn: [linkedin.com/in/pulina69](https://www.linkedin.com/in/pulina69)
-- Email: [pulinapethvan87@gmail.com](mailto:pulinapethvan87@gmail.com)
+- LinkedIn: [linkedin]([https://www.linkedin.com/in/pulina69](https://www.linkedin.com/in/pulina-pethvan-380ba632a/))
+- Email: [GMAIL(mailto:pulinapethvan87@gmail.com)
 
 ---
 
 ## ⚡ Fun fact
 
 I love building things that make life easier and more fun!
+
 
