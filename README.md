@@ -52,7 +52,7 @@
 
 ## 📫 How to reach me
 
-- LinkedIn: [https://www.linkedin.com/in/pulina-pethvan-380ba632a/]([https://www.linkedin.com/in/pulina69](https://www.linkedin.com/in/pulina-pethvan-380ba632a/))
+- LinkedIn: [https://www.linkedin.com/in/pulina-pethvan-380ba632a]([https://www.linkedin.com/in/pulina69](https://www.linkedin.com/in/pulina-pethvan-380ba632a/))
 - Email: [pulinapethvan87@gmail.com](mailto:pulinapethvan87@gmail.com)
 
 ---
@@ -60,6 +60,7 @@
 ## ⚡ Fun fact
 
 I love building things that make life easier and more fun!
+
 
 
 
