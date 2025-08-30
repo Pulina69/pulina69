@@ -1,16 +1,62 @@
-## Hi there 👋
 
-<!--
-**Pulina69/pulina69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+   <img src="https://avatars.githubusercontent.com/u/116181542?v=4" width="120" alt="Pulina69's Avatar"/>
+  
+   # Hi there, I'm Pulina! 👋
+  
+   **Passionate IT Student | Exploring the World of Technology**
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Undergraduate student at SLIIT
+- 💻 Passionate about software development, AI, and IoT
+- 🌱 Currently learning web development and machine learning
+- 🔭 Always exploring new technologies and building cool projects
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p>
+   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+   <img src="https://github-readme-stats.vercel.app/api?username=Pulina69&show_icons=true&theme=radical" alt="Pulina69's GitHub stats"/>
+   <br/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pulina69&theme=radical" alt="Pulina69's GitHub streak"/>
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+- 🚀 [My Project 1](#) - Short description of your project
+- 💡 [My Project 2](#) - Short description of your project
+- 🌟 [My Project 3](#) - Short description of your project
+
+---
+
+## 📫 How to reach me
+
+- LinkedIn: [linkedin.com/in/pulina69](https://www.linkedin.com/in/pulina69)
+- Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+## ⚡ Fun fact
+
+I love building things that make life easier and more fun!
