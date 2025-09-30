@@ -1,6 +1,6 @@
 
 <div align="center">
-   <img src="https://avatars.githubusercontent.com/u/116181542?v=4" width="120" alt="Pulina69's Avatar"/>
+   <img src="https://avatars.githubusercontent.com/u/116181542?v=4](https://github.com/Pulina69/pulina69/blob/main/D783B0CA-DFAB-4A91-BB31-426CA499704D.png" width="120" alt="Pulina69's Avatar"/>
   
    # Hi there, I'm Pulina! 👋
   
@@ -55,6 +55,7 @@
 ## ⚡ Fun fact
 
 I love building things that make life easier and more fun!
+
 
 
 
