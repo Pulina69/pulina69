@@ -1,6 +1,6 @@
 
 <div align="center">
-   <img src="D783B0CA-DFAB-4A91-BB31-426CA499704D.png" width="120" alt="Pulina69's Avatar"/>
+   <img src="17844318120632.jpg" width="120" alt="Pulina69's Avatar"/>
   
    # Hi there, I'm Pulina! 👋
   
